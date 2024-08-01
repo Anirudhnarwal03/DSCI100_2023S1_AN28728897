@@ -1,4 +1,4 @@
-# Predicting Maximum Heart Rate Achieved During Exercise
+# Cardiovascular Health Predictions Using Machine Learning
 
 ## Overview
 
